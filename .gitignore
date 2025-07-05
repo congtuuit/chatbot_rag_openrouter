@@ -1,0 +1,22 @@
+# Thư mục môi trường ảo
+venv/
+
+# File cấu hình môi trường
+.env
+
+# File tạm của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File tạm của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# File log
+*.log
+
+# File cấu hình editor
+.vscode/
+.idea/ 

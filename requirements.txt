@@ -1,0 +1,28 @@
+# FastAPI và server
+fastapi>=0.115.0
+uvicorn>=0.35.0
+
+# HTTP client
+httpx>=0.28.0
+
+# Environment và config
+python-dotenv>=1.1.0
+
+# Data validation
+pydantic>=2.11.0
+
+# Database (optional - cài riêng nếu cần)
+psycopg2
+psycopg2-binary>=2.9.9
+supabase>=2.0.2
+
+# AI và embedding (optional - cài riêng nếu cần)
+# openai>=1.3.7
+sentence-transformers>=2.2.2
+
+# Utilities (optional)
+numpy>=1.24.3
+python-multipart>=0.0.6
+
+# Optional: For better performance
+asyncio==3.4.3 
